@@ -1,4 +1,4 @@
-## Systems, Plantes and Locations
+## Systems, Planets and Locations
 
 *todo*
 
