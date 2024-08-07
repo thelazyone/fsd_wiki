@@ -2,17 +2,17 @@
 
 *todo*
 
-### [Sol System] (https://en.wikipedia.org/wiki/Solar_System)
+### Sol System ([Wikipedia](https://en.wikipedia.org/wiki/Solar_System))
 Planets:
 [Old Earth](old_earth)
 [Giano Habitat](giano_habitat)
 *todo*
 
-### [Luyten System] (https://en.wikipedia.org/wiki/Luyten%27s_Star)
+### [Luyten System](luyten) ([Wikipedia](https://en.wikipedia.org/wiki/Luyten%27s_Star))
 Planets:
-*todo*
+[Sahaghast](sahaghast)
 
-### [Trappist-1 System] (https://astronomical.fandom.com/wiki/TRAPPIST-1)
+### Trappist-1 System ([Wikipedia](https://astronomical.fandom.com/wiki/TRAPPIST-1))
 Planets:
 [Seguro](seguro)
 *todo*
