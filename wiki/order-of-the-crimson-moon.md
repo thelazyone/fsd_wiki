@@ -1,0 +1,30 @@
+The orbital station known as the Crimson Moon was built before the first human ever stepped on Sahaghast. It was from there that the first scientific expeditions gathered, scanning the planets and determining where the colonists should land and establish themselves.
+
+Once the best locations were determined, the Crimson Moon was moved into geosynchronous orbit above what would become the planetary capital. From there, the leaders would oversee the development and colonization efforts across the entire planet.
+
+With the second wave of colonization, following the discovery of the Dark Iron, came the megacorporations. Not willing to set foot on the planet surface -that was for miners and workers- they expanded the Crimson Moon into a massive orbital facility, housing the vast private security forces of the corporations, autonomous food and energy production centers. In short: everything to manage the burgeoning mining empire that the corporations were seeding on the surface.
+
+To hunt down the Locusts that protected the purest mines of Dark Iron, the corporations had brought in elite Rigs pilots, mercenaries whose immense talent and experimental battlesuits allowed to fight off even the largest of Locust bioforms. With time, these pilots gained famed, money and power. Little by little, they took an increasingly important role in the corporations everyday life and strategic decisions. 
+From mercenaries, they became propaganda tools, then heroes, then leaders, and eventually rose to the very top of the corporate ladder. Was it the mercenaries that took control of the corporation military structure, or rather the conglomerate that absorbed these legendary individuals into its capitalistic cogs? None can say for sure, but by the time the large miners revolt struck, it was these elite pilots -by then know as the Crimson Knights- that led the counterattack.
+
+With the help of Earth’s military, the Knights led the megacorporations private forces against the rioters and revolutionaries. In blood were the protests quelled, and with the third wave of colonisation came entire regiments of private military contractors, as well as new experimental Rigs. The megacorporations seemed to hold Sahaghast in an iron grip, with the Crimson Moon and many smaller orbital stations watching over the planet (and other satellites and smaller planetoids in the system).
+
+This all changed with the Tech invasion. Legends speak of the heroic resistance of the Crimson Knights, shining beacons of hope for the private security forces and for Earth’s military. It took years, but eventually the last of the Tech ships were destroyed when they launched a final desperate attack on the Crimson Moon itself.
+
+With the Tech secret weapons -particle jammers- preventing long range communication on the surface, Sahaghast survivors devolved into smaller factions. Earth’s military command became the zealous Children of the Iron Star, and they soon demanded the megacorporations obedience in their total war against the Tech. Refusing to let the excuse of the war against machines to go against their profits, the Crimson Moon prepared for direct conflict against the Iron Star. 
+
+Not willing to face the might of the Iron Keep’s anti-orbital weapons, the Crimson Moon broke its geosynchronous orbit from above the planetary capital, becaming a rogue shooting star in Sahaghast’s sky.
+
+By then the executive boards of the megacorporations had become little more than the extension of the will of the Crimson Knights. These elite warriors, who already passed down their wealth and privileges to their descendants, officialized this status and declared themselves the Crimson Lords, quietly silencing the last remnants of the old corporation leadership.
+
+The Order of the Crimson Moon, as it became known, organized its armies around each of the noble houses. They each have their own military, resource production facilities, housings and civilian populations, as well as their fleets of dropships and droppods.
+
+The Lords lead their forces to the surface, raiding Iron Star convoys and smaller mining cities for resources. The towns that pledge loyalty to a House receive a PMC garrison to protect themselves, as well as the promise that their Lord’s Rigs will be dropped from orbit if the need was to arise.
+
+To some, the Crimson Lords are nothing more than pirates and raiders, coming to steal hard-earned resources. To others, they are traitor to humanity’s united front against the machines - despite the Lords hunt for Tech remnants. But for yet others, they are protectors, symbols of resistance against oppression and certain death.
+
+It does not mean, though, that the Houses are a unified force. The Crimson Moon is a megalopolis-sized mobile station, ready to rain kinetic weapons, droppods and to unleash fleets of dropships on Sahaghast’s surface, and yet its territories and sectors are harshly disputed. While direct conflict between the Houses inside the Moon is extremely rare, on the surface, they are not uncommon.
+
+Ambushes and all-out attacks can happen between Lords and their private armies, and with hazy communications, it is sometimes hard to know if a Lord’s death was caused by a regular enemy of the Order of the Crimson Moon, or by the hand of a rival House. This has caused, over time, terrible bad blood between the strongest Houses, which sometimes devolves into open war on the surface. These battles between Houses have strict rules; so as not to spend needlessly to many of the Order’s resources - just enough to determine a winner.
+
+When a Crimson Lord is caught red-handed committing a crime against another House outside of these organized battles, the most common fate is exile. They take some of their loyal private military forces, and descend permanently on the surface, usually in an area with strong Iron Star presence. There, without any contact or support from the Order and their former House, they have to fend for themselves, either by becoming bandit lords or by forging alliances with nearby cities.
