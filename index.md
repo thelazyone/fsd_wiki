@@ -1,7 +1,5 @@
-
-
 # Welcome 
 Welcome to the Full Spectrum Dominance Wiki!
 
 [History](history)
-![MAP](../assets/images/luyten_map.png) 
+![MAP](wiki/images/luyten_map.png)

@@ -11,7 +11,7 @@ services:
     volumes:
      - .:/srv/jekyll
      - github_site:/srv/jekyll/_site
-    command: bundle exec jekyll serve --host 127.0.0.1 --force_polling --livereload --trace  --port 8080
+    command: bundle exec jekyll serve --host 0.0.0.0 --force_polling --livereload --trace  --port 8080
 volumes: 
   github_site:
 
