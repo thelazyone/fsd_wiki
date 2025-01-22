@@ -5,15 +5,30 @@
 ### Sol System ([Wikipedia](https://en.wikipedia.org/wiki/Solar_System))
 Planets:
 [Old Earth](old_earth)
-[Giano Habitat](giano_habitat)
+
 *todo*
 
 ### [Luyten System](luyten) ([Wikipedia](https://en.wikipedia.org/wiki/Luyten%27s_Star))
-Planets:
-[Sahaghast](sahaghast)
 
-### Trappist-1 System ([Wikipedia](https://astronomical.fandom.com/wiki/TRAPPIST-1))
-Planets:
-[Seguro](seguro)
-*todo*
+#### Planets:
+
+[Sauguro](sauguro)
+
+[Claeo](claaeo)
+
+[Archon](archon)
+
+[Themis](themis)
+
+[Ruun](ruun)
+
+#### Moons and Habitats:
+
+[Giano Habitat](giano_habitat)
+
+[Maat](maat)
+
+[Norn](norn)
+
+[Domu](domu)
 
