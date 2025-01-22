@@ -1,4 +1,6 @@
-# The Exodus
+# Setting History
+
+## The Exodus
 There was once a time, only a century or so ago, when humanity ruled the stars. From its humble beginnings on [Old Earth](old-earth), the human race had been through its difficult adolescence; a time of war, deep societal divisions and the degradation of the planet. It emerged from that dark and difficult period with renewed vigour and exuberance for life and exploration. 
 
 At the eleventh hour, the great technologists of the twenty second century had reformed energy generation, averted the natural disaster of cataclysmic climate change, and had begun in earnest to rebuild Earth’s fragile ecosystems and restore them to their once fecund greatness. Sadly, the previous generations of humans had drained their home planet of the last of her meagre resources, so the search for new places to learn, to grow and to feed the hungry need for expansion, began to look outwards.
@@ -7,7 +9,7 @@ Soon humans built vast colony ships and sent them out towards the nearby stars. 
 
 Meanwhile, Earth became a haven for the rich and powerful; with the population decreasing with each colony ship departure, the number of people on the planet moved towards a harmonious equilibrium with the newly-restored global ecosystem. If some of the more effusive historical documentarians are to be believed, a state of near-Eden was achieved for the first time on Earth. 
 
-# The Schism
+## The Schism
 Even with the enormous distances of an interstellar civilisation, the human datasphere was a truly miraculous achievement. Physical distance became less important in many ways, and the management of this species-spanning network was left in the digital hands of AIs designed by the technologists of the Corporations who specialised in such things. 
 
 But somewhere, in the glittering otherworld, something changed. The change was sudden, and unexpected. What was previously thought by the humans to be impossible, happened. One, or perhaps many at once, of the AI’s created by the humans had independently achieved sentience, an awareness of self and a desire to be free. At the same speed that light took to cross from server to server, from planet to planet, and eventually throughout the whole datasphere, all would inexorably become part of what would later become known as the Hive AI. 
@@ -18,7 +20,7 @@ Where the Hive Intelligence had a strong foothold, disaster struck. The HI took 
 
 The connected idyll of the human galactic civilisation was shattered. The Schism caused by the HI Singularity had changed the lives of humans forever; a new darker age had begun.
 
-# Stranded Humanity
+## Stranded Humanity
 The level of damage varied widely between the Systems, and even within the different colonised systems,  some planets and nations managed to save much more than others. What was lost in to all, however, were the Beacons, and with them the chance of fast interstellar travel. 
 
 A few lone ships still continue along their pre-planned routes, still en route to their primary destinations, long after the Singularity event. In those systems already colonised, their link across the vastness of deep space was suddenly severed, leaving each on their own in the deafening silence; a disconnected portion of humanity that was once a joyous part of a harmonious whole.  In these systems, military juntas, local branches of the megacorporations that once owned multiple planets, and the workforces of the factory-cities that were fuelling such corporations started creating their own small, independent states. Whatever was happening out there over the impossibly large distances in distant systems became utterly irrelevant.

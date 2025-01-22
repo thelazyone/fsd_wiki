@@ -1,11 +1,11 @@
 remote_theme: Drassil/git-wiki-theme@master
 # (string) Title of your wiki
-title: "Full Spectrum Dominance"
+#title: "Full Spectrum Dominance"
 # (string) if you've installed your wiki in subfolder, you must change this configuration
 # with your folder name, otherwise leave it empty
 baseurl: "/fsd_wiki"
 # (string) Description of your wiki
-description: "a Full Spectrum Dominance wiki - WORKING VERSION"
+description: "a Full Spectrum Dominance wiki"
 # (boolean) disable edit functionalities (edit/delete/add pages)
 disable_edit: false
 # (boolean) Enable/disable wiki page list in sidebar
@@ -27,7 +27,7 @@ show_downloads: true
 # (string) Specify branch rendered by gitpages allowing wiki tool buttons to work
 git_branch: "master"
 # (string) Url of logo image, it can be full, absolute or relative.
-logo_url: /assets/logo_basic.jpg
+logo_url: /assets/logo_basic.jpg 
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
 google_analytics: 
 # (string) folder where wiki pages are stored, it's needed for tool buttons
