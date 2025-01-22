@@ -1,8 +1,7 @@
----
-redirect_from: "/"
----
 
+
+# Welcome 
 Welcome to the Full Spectrum Dominance Wiki!
 
 [History](history)
-![MAP](assets/images/luyten_map.png) 
+![MAP](../assets/images/luyten_map.png) 

@@ -1,11 +1,12 @@
-FROM ruby:2.7.0
+FROM ruby:3.2.0
 
-ENV LC_ALL=C.UTF-8=value
+ENV LC_ALL C.UTF-8
 
 ADD . /srv/jekyll
 
 WORKDIR /srv/jekyll
 
+RUN apt-get update && apt-get install -y rubygems
 RUN bundle install --gemfile=.env-files/Gemfile.github
 
-EXPOSE 4000
+EXPOSE 8080
