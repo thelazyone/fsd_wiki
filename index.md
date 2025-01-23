@@ -17,10 +17,14 @@ All the recent events and relevant locations mentioned in the game settings are 
 Full Spectrum Dominance (FSD) is a miniature wargame for epic small-scale sci-fi miniatures in 6-8 mm scale. 
 You can fit two armies and a full battlefield on a coffee table, as little as 2 x 3 feet, moving platoons and tank groups with the same ease you would do in a skirmish game. Moreover, using arbitrary "Distance Units" for distances and ranges you can scale the game up and down as you please.
 
+![](wiki/images/battle_shot_conglo_union.jpg){: width="80%"}
+
 The rules are based around a dice-based activation engine utilising unit cards on which dice are placed to power different effects. This ensures that, at any moment, all players are involved in the game! Players must balance their resources and choose every action carefully while minimizing the downtimes with reactions and triggers.
 
 ## The Miniatures
 The [official models](https://www.myminifactory.com/users/TheLazyForger) are designed for resin 3D printing, but you can use all kind of small-scale models, or use one of our [licensed vendors](https://fsd-wargame.com/authorized-3d-printers/) to get your fix of small scale goodies. 
+
+![](wiki/images/table_with_clash.jpg){: width="80%"}
 
 ## Other Resources
 **Online Store:** https://www.myminifactory.com/users/TheLazyForger
