@@ -41,8 +41,6 @@ Nearly a year later, on Archon, another wave of Tech robots emerged. Controlled 
 
 On top of that, there are many reports of construction facilities producing more and more robots for Menedemos armies under the surface of Archon.
 
-![](wiki/images/calliphon.jpg){: width="80%"}
-
 ## Dormient Tech
 
 Once the Tech began to lose ground, they simply deactivated large portions of their forces, rendering them virtually undetectable. 
