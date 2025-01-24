@@ -27,8 +27,8 @@ The [official models](https://www.myminifactory.com/users/TheLazyForger) are des
 ![](wiki/images/table_with_clash.jpg){: width="80%"}
 
 ## Other Resources
-**Online Store:** https://www.myminifactory.com/users/TheLazyForger
-**Official Website:** https://fsd-wargame.com/  
-**Online Army Builder:** https://fsd-wargame.com/roster/
-**Discord Channel:** https://discord.gg/39exwYM9gn  
-**Facebook Group:** https://www.facebook.com/groups/fullspectrumdominance  
+**Online Store:** https://www.myminifactory.com/users/TheLazyForger   
+**Official Website:** https://fsd-wargame.com/    
+**Online Army Builder:** https://fsd-wargame.com/roster/    
+**Discord Channel:** https://discord.gg/39exwYM9gn    
+**Facebook Group:** https://www.facebook.com/groups/fullspectrumdominance    
