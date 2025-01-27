@@ -1,6 +1,6 @@
 # The Tech
 
-The [Singularity](singularity) marked beginning of what is commonly known as The Tech, a sentient network of AIs that coordinated a large scale war in the effort to eradicate Humanity.  
+The [Singularity](singularity) marked beginning of what is commonly known as The Tech, a sentient network of AIs that coordinated a large scale war in the effort to eradicate Humanity or, some speculate, as a first step in a larger [plan](the-plan).  
 
 While the profound resons behind the choices of the Hive are unknown to us, the Tech invested all their resources in building a vast army across all star systems, and soon took control of about half of the settlements and territories that humans controlled.  
 
@@ -14,6 +14,8 @@ When the Schism happened on Luyten most human settlements  got any time to react
 As soon as the surviving humans reorganized, they started pushing back. Within a year they regained control of [Claeo](claeo), which was severly scarred but managed to rebuild quick; Sauguro and the moons of Themis took a while more, but the resources they had were too important to let them in the hands of the Tech.  
 
 Retaking [Archon](archon) completely took over two decades, mostly because of the higher gravity and the far larger surface. It is estimated that even to this day most of the remaining Tech forces are dormient hidden in some of the planet’s vast cave systems. 
+
+![](wiki/images/red_plato.jpg){: width="80%"}
 
 ## The Dead Systems 
 
