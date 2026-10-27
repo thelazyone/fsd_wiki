@@ -1,0 +1,12 @@
+base_url = "https://thelazyone.github.io/fsd_wiki"
+title = "Full Spectrum Wiki"
+description = "The worlds, factions and history of Full Spectrum Dominance."
+compile_sass = false
+build_search_index = true
+
+[search]
+index_format = "fuse_json"
+
+[markdown]
+insert_anchor_links = "heading"
+

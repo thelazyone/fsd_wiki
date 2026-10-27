@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+  <meta name="description" content="{{ config.description }}">
+  <link rel="stylesheet" href="{{ get_url(path='style.css') }}">
+  <script src="{{ get_url(path='search.js') }}" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="masthead">
+    <a class="brand" href="{{ config.base_url }}/"><img src="{{ get_url(path='images/logo_basic.jpg') }}" alt="Full Spectrum Dominance"><span>FULL SPECTRUM<span class="brand-sub">THE LORE ARCHIVE</span></span></a>
+    <a class="official" href="https://fsd-wargame.com/">Official game ↗</a>
+  </header>
+  <div class="layout">
+    <aside class="sidebar">
+      <details class="navigation" open>
+        <summary>Explore the archive</summary>
+        <nav aria-label="Wiki navigation">
+          <a href="{{ config.base_url }}/" {% if current_path is defined and current_path == '/' %}aria-current="page"{% endif %}>Overview</a>
+          {% set archive = get_section(path='_index.md') %}
+          {% for group in ['The setting', 'Factions', 'Locations', 'People & powers', 'About', 'Drafts'] %}
+          {% set entries = archive.pages | filter(attribute='extra.group', value=group) %}
+          {% if entries | length > 0 %}
+          <p class="nav-label">{{ group }}</p>
+          {% for entry in entries %}<a href="{{ entry.permalink }}" {% if current_url is defined and current_url == entry.permalink %}aria-current="page"{% endif %}>{{ entry.title }}</a>{% endfor %}
+          {% endif %}
+          {% endfor %}
+        </nav>
+      </details>
+      <div class="search" hidden data-index="{{ get_url(path='search_index.en.json') }}">
+        <label for="search">Search the archive</label>
+        <input id="search" type="search" placeholder="Worlds, factions, people…" autocomplete="off">
+        <p id="search-status" role="status"></p>
+        <ul id="search-results"></ul>
+      </div>
+    </aside>
+    <main id="main" tabindex="-1">{% block content %}{% endblock content %}</main>
+  </div>
+  <footer>Full Spectrum Dominance · A universe by The Lazy Forger and its community.<br>Full Spectrum Dominance IP belongs to The Lazy Forger.</footer>
+</body>
+</html>

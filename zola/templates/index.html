@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block content %}
+<p class="eyebrow">FULL SPECTRUM DOMINANCE / FIELD GUIDE</p>
+<h1>{{ section.title }}</h1>
+<div class="entry-points">
+  <a href="{{ get_url(path='@/history.md') }}"><span>01 / THE PAST</span>Setting history ↗</a>
+  <a href="{{ get_url(path='@/the-factions.md') }}"><span>02 / THE POWERS</span>The factions ↗</a>
+  <a href="{{ get_url(path='@/luyten.md') }}"><span>03 / THE WORLDS</span>The Luyten system ↗</a>
+</div>
+<article class="prose">{{ section.content | safe }}</article>
+{% endblock content %}

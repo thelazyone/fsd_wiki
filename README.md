@@ -1,6 +1,7 @@
 # Full Spectrum Dominance wiki page
 
 A simple but informative wiki regarding all the FSD lore.
+A standalone Zola version is available in [`zola/`](zola/README.md), with the same content and a simpler custom layout. Run `zola serve` from that folder to preview it.
 Currently still in very early stages, but the goal is to put here all the narrative content and the wordlbuilding work.
 
 ## The Wiki

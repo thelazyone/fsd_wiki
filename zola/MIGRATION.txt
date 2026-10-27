@@ -1,0 +1,28 @@
+Original prose, TODOs, and all images preserved. First headings moved to page titles.
+Kramdown image attributes replaced by a Zola image shortcode.
+old_earth and giano_habitat links corrected. Existing page slugs preserved.
+Unpublished documents marked draft = true.
+
+The following targets do not have source articles. Their link labels remain as plain text:
+
+archon: wiki/factions/the-conglomerate.md, wiki/factions/the-corsairs.md, wiki/factions/the-tech.md, wiki/locations.md, wiki/luyten.md
+beacon: wiki/factions/the-tech.md
+children-of-the-iron-star: unpublished/sahaghast.md
+claaeo: wiki/locations.md
+claeo: wiki/factions/the-conglomerate.md, wiki/factions/the-corsairs.md, wiki/factions/the-tech.md, wiki/luyten.md
+disciples-of-the-twin-spark: unpublished/sahaghast.md
+domu: wiki/locations.md, wiki/luyten.md
+esperia: wiki/factions/the-corsairs.md
+harpa: wiki/factions/the-corsairs.md
+hfc-conglomerate: wiki/factions/the-conglomerate.md
+maat: wiki/factions/the-tech.md, wiki/locations.md, wiki/luyten.md
+menedemos: wiki/factions/the-tech.md
+norn: wiki/locations.md, wiki/luyten.md
+order-of-the-iron-moon: unpublished/sahaghast.md
+other-ai-nodes: wiki/factions/the-tech.md
+sauguro: wiki/factions/the-corsairs.md, wiki/locations.md, wiki/luyten.md
+singularity: wiki/factions/the-tech.md, wiki/stakeholders/hive-ai.md
+the-hive: wiki/luyten.md
+themis: wiki/factions/the-corsairs.md, wiki/locations.md, wiki/luyten.md
+whaleship: wiki/factions/the-corsairs.md
+ygg-conglomerate: wiki/factions/the-conglomerate.md
