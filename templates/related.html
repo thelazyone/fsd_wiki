@@ -1,0 +1,4 @@
+<nav class="related" aria-label="Related articles">
+  <h2>Related articles</h2>
+  <ul>{% for path in related %}{% set entry = get_page(path=path) %}<li><a href="{{ entry.permalink }}">{{ entry.title }}</a></li>{% endfor %}</ul>
+</nav>

@@ -1,0 +1,27 @@
+{% extends "base.html" %}
+{% block title %}{{ page.title }} · {{ config.title }}{% endblock title %}
+{% block content %}
+<p class="category">{% if page.extra.parent is defined %}{% set parent = get_page(path=page.extra.parent) %}<a href="{{ parent.permalink }}">{{ parent.title }}</a>{% else %}{{ page.extra.group }}{% endif %}</p>
+<h1>{{ page.title }}</h1>
+{% if page.draft %}<p class="draft">Unpublished draft</p>{% endif %}
+{% if page.toc | length > 1 %}
+<details class="toc"><summary>On this page</summary><ul>{% for heading in page.toc %}<li><a href="{{ heading.permalink }}">{{ heading.title }}</a></li>{% endfor %}</ul></details>
+{% endif %}
+{% if page.content | trim == "" %}
+<p class="unfinished" role="note">This article is still to be written.</p>
+{% else %}
+<article class="prose">{{ page.content | safe }}</article>
+{% endif %}
+{% set archive = get_section(path='_index.md') %}
+{% set children = archive.pages | filter(attribute='extra.parent', value=page.relative_path) %}
+{% if children | length > 0 %}
+<nav class="subpages" aria-label="Articles within {{ page.title }}">
+{% for child in children %}<h2><a href="{{ child.permalink }}">{{ child.title }}</a></h2>{% endfor %}
+</nav>
+{% endif %}
+{% if page.extra.related is defined %}
+{% set related = page.extra.related %}
+{% include "related.html" %}
+{% endif %}
+<a class="back" href="{{ config.base_url }}/">Back to the archive</a>
+{% endblock content %}

@@ -1,0 +1,23 @@
+Archon: content/archon.md; existing information: luyten.md
+Beacons: content/beacon.md; existing information: history.md, cornucopia.md
+Claeo: content/claeo.md; existing information: luyten.md
+The Hive: content/the-hive.md; existing information: luyten.md
+Domu: content/domu.md; existing information: luyten.md
+Esperia: content/esperia.md; existing information: the-corsairs.md
+Harpa: content/harpa.md; existing information: the-corsairs.md
+Horstfruden Corporation: content/hfc-conglomerate.md; existing information: the-conglomerate.md
+Human Diaspora: content/human-diaspora.md; existing information: history.md, luyten-trace-gap.md
+Maat: content/maat.md; existing information: luyten.md
+Menedemos: content/menedemos.md; existing information: the-tech.md
+Norn: content/norn.md; existing information: luyten.md
+Other AI Nodes: content/other-ai-nodes.md; existing information: the-tech.md
+Procyon: content/procyon.md; existing information: cornucopia.md
+Salvage Charters: content/salvage-charters.md; existing information: reclaiming-and-prospecting-authority.md
+Sauguro: content/sauguro.md; existing information: luyten.md
+Singularity: content/singularity.md; existing information: history.md
+Themis: content/themis.md; existing information: luyten.md
+Whaleships: content/whaleship.md; existing information: the-corsairs.md
+YGG: content/ygg-conglomerate.md; existing information: the-conglomerate.md
+The Armada: unresolved wording "[struggles?]" in content/armada.md.
+Union shipyard: unresolved name "[name of the Union, TBD]" in content/union-shipyard.md.
+The Detached: content/the-detached.md.
