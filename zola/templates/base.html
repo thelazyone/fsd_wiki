@@ -5,14 +5,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% block title %}{{ config.title }}{% endblock title %}</title>
   <meta name="description" content="{{ config.description }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@600;700;800&amp;family=Titillium+Web:ital,wght@0,400;0,600;0,700;1,400&amp;display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ get_url(path='style.css') }}">
   <script src="{{ get_url(path='search.js') }}" defer></script>
 </head>
 <body>
   <a class="skip" href="#main">Skip to content</a>
   <header class="masthead">
-    <a class="brand" href="{{ config.base_url }}/"><img src="{{ get_url(path='images/logo_basic.jpg') }}" alt="Full Spectrum Dominance"><span>FULL SPECTRUM<span class="brand-sub">THE LORE ARCHIVE</span></span></a>
-    <a class="official" href="https://fsd-wargame.com/">Official game ↗</a>
+    <a class="brand" href="{{ config.base_url }}/"><img src="{{ get_url(path='images/fullspectrum_wiki.png') }}" alt="Full Spectrum Wiki" width="2578" height="944"></a>
+    <nav class="game-links" aria-label="Full Spectrum games">
+      <a class="official" href="https://fsd-wargame.com/">Full Spectrum Dominance</a>
+      <a class="official" href="https://thelazyforger.com/overdrive/">Full Spectrum Overdrive</a>
+    </nav>
   </header>
   <div class="layout">
     <aside class="sidebar">
@@ -39,6 +45,6 @@
     </aside>
     <main id="main" tabindex="-1">{% block content %}{% endblock content %}</main>
   </div>
-  <footer>Full Spectrum Dominance · A universe by The Lazy Forger and its community.<br>Full Spectrum Dominance IP belongs to The Lazy Forger.</footer>
+  <footer>Full Spectrum · A universe by The Lazy Forger and its community.<br>Full Spectrum Dominance IP belongs to The Lazy Forger.</footer>
 </body>
 </html>

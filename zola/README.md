@@ -45,6 +45,8 @@ The original prose and images were copied, with headings moved into titles and l
 
 ## Design
 
-Three main templates, one image shortcode, one stylesheet and a small optional search script. The site uses system fonts, locally stored images, a reading-focused responsive layout, grouped navigation and a table of contents. Search uses Zola's generated index and a dependency-free substring search. Navigation and articles work without JavaScript.
+Three main templates, one image shortcode, one stylesheet and a small optional search script. The site uses Kumbh Sans for headings and Titillium Web for body text (loaded from Google Fonts with sans-serif fallbacks), locally stored images, a reading-focused responsive layout, grouped navigation and a table of contents. Search uses Zola's generated index and a dependency-free substring search. Navigation and articles work without JavaScript.
 
 Full Spectrum Dominance IP remains the property of The Lazy Forger.
+
+The palette uses white, charcoal, and the orange `#F49739` sampled from the supplied Lazy Forger logo.
